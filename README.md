@@ -1,4 +1,4 @@
-# Álbum Player Interativo - Zezé Di Camargo & Luciano 2003
+# Álbum Player Interativo - Zezé Di Camargo & Luciano 2010
 
 Este projeto é um player/encarte digital premium, desenvolvido com foco na experiência mobile (Safari/iOS) e na reprodução de áudio estática (GitHub Pages).
 
@@ -44,7 +44,7 @@ Abra `data/album.js` e edite os campos do objeto principal (`title`, `releaseDat
 - A ficha técnica está na propriedade `technicalCredits`.
 - As premiações ficam no array `awards`. Deixe o array vazio `[]` se não houver dados, o sistema tratará a interface automaticamente.
 
-### 4. Músicas (18 faixas)
+### 4. Músicas (26 faixas)
 Dentro de `data/album.js`, existe o array `tracks` com 18 objetos.
 Para adicionar uma música:
 ```javascript
